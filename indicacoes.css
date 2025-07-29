@@ -39,7 +39,7 @@ h2 {
     background: white;
     border-radius: 8px;
     padding: 12px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.5);
     transition: transform 0.3s ease;
     display: flex;
     flex-direction: column;
@@ -81,4 +81,32 @@ h2 {
   .qrcode {
     display: block;
   }
+}
+.bookContainer{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.bookImage {
+    min-width: 120px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+
+
+    display: flex;
+    flex-direction: column;
+    padding-right: 10px;
+}
+.bookImage img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain; /* keep aspect ratio */
+  display: block;
+}
+.bookText{
+    display: flex;
+    flex-direction: column;
 }
