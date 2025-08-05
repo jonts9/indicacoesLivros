@@ -10,7 +10,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
-def get_amazon_book_cover_url_selenium(url, wait_time=30):
+def get_amazon_book_cover_url_selenium(url, wait_time=10):
     from selenium.common.exceptions import NoSuchElementException
     options = Options()
     options.add_argument('--headless')
@@ -23,7 +23,12 @@ def get_amazon_book_cover_url_selenium(url, wait_time=30):
 
     try:
         driver.get(url)
-        time.sleep(wait_time)
+        try:
+            WebDriverWait(driver, wait_time).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, '#imgTagWrapperId > img'))
+            )
+        except TimeoutException:
+            print("⚠️ Tempo de espera excedido para carregar a imagem.")
 
         image_url = None
 
@@ -52,6 +57,7 @@ def get_amazon_book_cover_url_selenium(url, wait_time=30):
             if src:
                 image_url = src
             if not image_url:
+                # print(driver.page_source)
                 raise Exception("Nenhum seletor encontrou uma imagem válida")
 
         return image_url
@@ -73,7 +79,7 @@ def process_json_file_with_selenium(file_path):
         data = json.load(f)
 
     # Itera nos livros
-    for book in data.get("2-5 anos", []):
+    for book in data.get("8-12 anos", []):
         if "imageUrl" not in book or book["imageUrl"] is None:
             try:
                 image_url = get_amazon_book_cover_url_selenium(book["url"])
