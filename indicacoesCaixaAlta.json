@@ -113,7 +113,8 @@
     {
       "title": "Que Bagunça!",
       "url": "https://amzn.to/3H2UMC7",
-      "imageUrl": "https://m.media-amazon.com/images/I/71XIQ4FwghL._SX445_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/71XIQ4FwghL._SX445_.jpg",
+      "ocultar": true
     },
     {
       "title": "Um dia muito mal-humorado",
@@ -168,7 +169,8 @@
     {
       "title": "Quando eu crescer...",
       "url": "https://amzn.to/3IIzU3x",
-      "imageUrl": "https://m.media-amazon.com/images/I/61yNXuHcfaL._SY342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/61yNXuHcfaL._SY342_.jpg",
+      "ocultar": true
     },
     {
       "title": "O grúfalo",
@@ -439,6 +441,16 @@
       "title": "Zita, a mosquita erudita",
       "url": "https://www.joaoemariaeditora.com.br/zita-a-mosquita-erudita/?bvid=HELLEN17559382",
       "imageUrl": "https://cdn.sistemawbuy.com.br/arquivos/3ee7a7abb838bb8a8cca53bb534d5c3d/produtos/65f3a37fed193/livro-mosquita-zita-fechado-reto-65f3a48612256.png"
+    },
+    {
+      "title": "Rápido como um gafanhoto",
+      "url": "https://amzn.to/3IScJnQ",
+      "imageUrl": "https://m.media-amazon.com/images/I/91JF1oBzDoL._SY342_.jpg"
+    },
+    {
+      "title": "O ratinho, o morango vermelho maduro e o grande urso esfomeado",
+      "url": "https://amzn.to/4gNjLXs",
+      "imageUrl": "https://m.media-amazon.com/images/I/A1jBQ8onjaL._SY342_.jpg"
     }
   ]
 }
