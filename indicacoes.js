@@ -1,7 +1,7 @@
 let first = true;
 let printQrCode = false;
 let cont = 0;
-fetch('indicacoes.json')
+fetch(path)
     .then(res => res.json())
     .then(data => {
         const container = document.getElementById('livros-container');
