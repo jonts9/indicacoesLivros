@@ -23,7 +23,8 @@
     {
       "title": "As mais belas histórias da Bíblia (Minilivro cartonado): Sansão",
       "url": "https://amzn.to/3XhTS9U",
-      "imageUrl": "https://m.media-amazon.com/images/I/61GvyeTi8VL._SY342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/61GvyeTi8VL._SY342_.jpg",
+      "ocultar": true
     },
     {
       "title": "De quem é a coroa",
@@ -34,6 +35,36 @@
       "title": "Boa noite, arca",
       "url": "https://amzn.to/3DiS0Xs",
       "imageUrl": "https://m.media-amazon.com/images/I/51JyNn-RJ0L._SX342_SY445_ControlCacheEqualizer_.jpg"
+    },
+    {
+      "title": "As Mais Belas Histórias da Bíblia: Isabel",
+      "url": "https://amzn.to/4hb4mjV",
+      "imageUrl": "https://m.media-amazon.com/images/I/611vFu0QsJL._SY342_.jpg"
+    },
+    {
+      "title": "Meu Primeiro Tesouro Bíblico: Box com 6 und.",
+      "url": "https://amzn.to/4n4KeBt",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Js-qOoVxL._SY342_.jpg"
+    },
+    {
+      "title": "Boas Notícias! Deus ama Você!",
+      "url": "https://amzn.to/474QQK7",
+      "imageUrl": "https://m.media-amazon.com/images/I/614dYid0UIL._SY342_.jpg"
+    },
+    {
+      "title": "Boas Notícias! Nasceu Jesus!",
+      "url": "https://amzn.to/438IPCM",
+      "imageUrl": "https://m.media-amazon.com/images/I/617PB61rv3L._SY342_.jpg"
+    },
+    {
+      "title": "Boas Notícias! Deus me Criou!",
+      "url": "https://amzn.to/3KTXQlA",
+      "imageUrl": "https://m.media-amazon.com/images/I/61IqeFOKYrL._SY342_.jpg"
+    },
+    {
+      "title": "Boas Notícias! É a Criação! (Volume 1)",
+      "url": "https://amzn.to/4nJmofG",
+      "imageUrl": "https://m.media-amazon.com/images/I/610BHOqUe4L._SY342_.jpg"
     }
   ],
   "2-5 anos": [
@@ -173,11 +204,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/5158x8pmazL._SY385_.jpg"
     },
     {
-      "title": "Catecismo de Westminster ilustrado",
-      "url": "https://www.editoratrinitas.com.br/infantil/breve-catecismo-de-westminster-ilustrado",
-      "imageUrl": "https://images.tcdn.com.br/img/img_prod/656003/breve_catecismo_de_westminster_ilustrado_411_1_6cb2bc5739c9a9ca3ded76ee9572378b.png"
-    },
-    {
       "title": "Quando as luzes se apagam",
       "url": "https://amzn.to/44jJH7A",
       "imageUrl": "https://m.media-amazon.com/images/I/911eDxzRtXL._SY342_.jpg"
@@ -206,6 +232,56 @@
       "title": "Dom resmungalote e o Dragão brigão",
       "url": "https://amzn.to/4ldDMaB",
       "imageUrl": "https://m.media-amazon.com/images/I/51jwSr5rljL._SY342_.jpg"
+    },
+    {
+      "title": "Porções especiais da Bíblia: O Sermão da montanha...",
+      "url": "https://amzn.to/475rwDH",
+      "imageUrl": "https://m.media-amazon.com/images/I/6139PkXIMhL._SY342_.jpg"
+    },
+    {
+      "title": "Porções especiais da Bíblia: Salmo 23 para crianças",
+      "url": "https://amzn.to/3WD4VJW",
+      "imageUrl": "https://m.media-amazon.com/images/I/61MD53K6mFL._SY342_.jpg"
+    },
+    {
+      "title": "ABC das Virtudes",
+      "url": "https://www.plenitudedistribuidora.com.br/abc-das-virtudes-vida-kids-98045?gclid=Cj0KCQjw6bfHBhDNARIsAIGsqLhRzrFmmi1ZXXsRi8635PyXbtDCpyMs1pE8m2rD27RJEX_5CXeMCLMaAv8-EALw_wcB&gad_source=1&gad_campaignid=21284268459&gbraid=0AAAAADJ26pi_hzwWFFnUAkXgx-mPBpU7G",
+      "imageUrl": "https://plenitudedistribuidora.fbitsstatic.net/img/p/abc-das-virtudes-vida-kids-98045/286996-1.jpg?w=400&h=400&v=202506251029"
+    },
+    {
+      "title": "Glória: A Harpinha Especial: Volume 1",
+      "url": "https://amzn.to/47pGPZe",
+      "imageUrl": "https://m.media-amazon.com/images/I/51Q8nPKKvqL._SY385_.jpg"
+    },
+    {
+      "title": "Anne: Como é bom ser Criança",
+      "url": "https://amzn.to/3LaJvkP",
+      "imageUrl": "https://m.media-amazon.com/images/I/61y9tssDwuL._SY342_.jpg"
+    },
+    {
+      "title": "Nino : Pronto a Obedecer (Volume 1)",
+      "url": "https://amzn.to/4qaZI9Q",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Bo82tqFIL._SY342_.jpg"
+    },
+    {
+      "title": "George e o Tempo (Volume 1)",
+      "url": "https://amzn.to/4n4Mett",
+      "imageUrl": "https://m.media-amazon.com/images/I/41OeyPt86QL._SX342_SY445_ControlCacheEqualizer_.jpg"
+    },
+    {
+      "title": "Lumi e o Coração Grato",
+      "url": "https://amzn.to/4hghTXM",
+      "imageUrl": "https://m.media-amazon.com/images/I/616-8-eXFjL._SY342_.jpg"
+    },
+    {
+      "title": "O pinguinzinho viajante",
+      "url": "https://www.editoratrinitas.com.br/infantil/o-pinguinzinho-viajante?srsltid=AfmBOoqTRdOgym2O4NnT3Sfge1A6gpnaDMZfMIVmioMgOO50AulyQapk",
+      "imageUrl": "https://images.tcdn.com.br/img/img_prod/656003/o_pinguinzinho_viajante_1_20250903104259_ee4cf7731ae9.png"
+    },
+    {
+      "title": "Flores Cinzentas: Uma Canção em Imagens",
+      "url": "https://amzn.to/4nJpNuY",
+      "imageUrl": "https://m.media-amazon.com/images/I/9140z2nDFzL._SY342_.jpg"
     }
   ],
   "5-8 anos": [
@@ -448,6 +524,26 @@
       "title": "O livro das virtudes bíblicas",
       "url": "https://amzn.to/3GSgpFi",
       "imageUrl": "https://m.media-amazon.com/images/I/51kQKVrkYDL._SX342_SY445_.jpg"
+    },
+    {
+      "title": "Catecismo de Westminster ilustrado",
+      "url": "https://www.editoratrinitas.com.br/infantil/breve-catecismo-de-westminster-ilustrado",
+      "imageUrl": "https://images.tcdn.com.br/img/img_prod/656003/breve_catecismo_de_westminster_ilustrado_411_1_6cb2bc5739c9a9ca3ded76ee9572378b.png"
+    },
+    {
+      "title": "Forjados: Formando a identidade de meninos do Reino",
+      "url": "https://amzn.to/3KPX09x",
+      "imageUrl": "https://m.media-amazon.com/images/I/71IsjLPQL0L._SY385_.jpg"
+    },
+    {
+      "title": "Preciosas - Formando a Identidade de Meninas do Reino",
+      "url": "https://amzn.to/48vtCPJ",
+      "imageUrl": "https://m.media-amazon.com/images/I/61EjFFCzRBL._SY342_.jpg"
+    },
+    {
+      "title": "O Semeador de Virtudes",
+      "url": "https://amzn.to/4n7tjyh",
+      "imageUrl": "https://m.media-amazon.com/images/I/81g6Qi3zuBL._SY385_.jpg"
     }
   ],
   "8-12 anos": [
@@ -615,6 +711,66 @@
       "title": "Mentiras que os meninos acreditam e a épica busca pela verdade",
       "url": "https://amzn.to/40z9fMV",
       "imageUrl": "https://m.media-amazon.com/images/I/51hRo7Hd9ML._SY445_SX342_.jpg"
+    },
+    {
+      "title": "A Pedra e o Dragão",
+      "url": "https://www.plenitudedistribuidora.com.br/a-pedra-e-o-dragao-kathryn-butler-97164?gclid=Cj0KCQjw6bfHBhDNARIsAIGsqLhEwpAcsA4DQeMkXYyMBXjAifNkaOhV60CXoh8KktTubXrUgPpg2oMaAjuAEALw_wcB&gad_source=1&gad_campaignid=21284268459&gbraid=0AAAAADJ26pi_hzwWFFnUAkXgx-mPBpU7G",
+      "imageUrl": "https://plenitudedistribuidora.fbitsstatic.net/img/p/a-pedra-e-o-dragao-kathryn-butler-97164/286115-1.jpg?w=400&h=400&v=202504011743"
+    },
+    {
+      "title": "O segredo da virtuosa – Uma história sobre fé, virtude e o papel dos influenciadores digitais do autor de \"O enigma da Bíblia de Gutenberg\"",
+      "url": "https://amzn.to/3KNqe97",
+      "imageUrl": "https://m.media-amazon.com/images/I/81i5ssUBO+L._SY466_.jpg"
+    },
+    {
+      "title": "Meninos como Você",
+      "url": "https://amzn.to/4ohMRkn",
+      "imageUrl": "https://m.media-amazon.com/images/I/51PiqsOi2pL._SY425_.jpg"
+    },
+    {
+      "title": "No Ventre da Baleia e Outras Histórias dos Mártires",
+      "url": "https://amzn.to/4qfqxKe",
+      "imageUrl": "https://m.media-amazon.com/images/I/61YHDbxw4sL._SY466_.jpg"
+    },
+    {
+      "title": "A Glória da Graça: História dos Cânones de Dort",
+      "url": "https://livrariadefesadoevangelho.com.br/products/a-gloria-da-graca-a-historia-dos-canones-de-dort?srsltid=AfmBOoofipwhTHNSad-xu2intIXR26R9q6Yu1XLTxQor09I5OWcuOAzU",
+      "imageUrl": "https://livrariadefesadoevangelho.com.br/cdn/shop/files/a_gloria_da_graca_a_historia_dos_canones_de_dort_colorido_97_3_d5f1be438861d77d6-ff9fpkoffb.jpg?v=1724076961&width=495"
+    },
+    {
+      "title": "O Livro da Queda do Homem",
+      "url": "https://livrariadefesadoevangelho.com.br/products/o-livro-da-queda-do-homem-para-criancas-thomas-h-gallaudet?_pos=1&_sid=f2962480d&_ss=r",
+      "imageUrl": "https://livrariadefesadoevangelho.com.br/cdn/shop/files/112002144a674c97330.jpg?v=1724076948&width=740"
+    },
+    {
+      "title": "A Infância do Príncipe dos Pregadores - Como Spurgeon cresceu na Fé",
+      "url": "https://www.pronobiseditora.com.br/autores/thomas-j-nettles/a-infancia-do-principe-dos-pregadores-como-spurgeon-cresceu-na-fe",
+      "imageUrl": "https://images.tcdn.com.br/img/img_prod/1222859/a_infancia_do_principe_dos_pregadores_como_spurgeon_cresceu_na_fe_157_1_6608e74c73f36a68b6e11e75869328fb.jpg"
+    },
+    {
+      "title": "A Saga Wingfeather: nos Limites do mar Sombrio da Escuridão - Livro 1",
+      "url": "https://amzn.to/43lxPlx",
+      "imageUrl": "https://m.media-amazon.com/images/I/81mfukyzJJS._SY425_.jpg"
+    },
+    {
+      "title": "A Saga Wingfeather: Norte! Ou Seja Devorado - Livro 2",
+      "url": "https://amzn.to/4o0hdIr",
+      "imageUrl": "https://m.media-amazon.com/images/I/81mT46rN4GL._SY425_.jpg"
+    },
+    {
+      "title": "A Saga Wingfeather - O Monstro nos Vales - Livro 3",
+      "url": "https://amzn.to/43bhzn6",
+      "imageUrl": "https://m.media-amazon.com/images/I/81muEjhlrwL._SY425_.jpg"
+    },
+    {
+      "title": "A Saga Wingfeather: O Guardião e o Rei Lobo - Livro 4",
+      "url": "https://amzn.to/4qb13gS",
+      "imageUrl": "https://m.media-amazon.com/images/I/81v70yNU6bL._SY425_.jpg"
+    },
+    {
+      "title": "Dragões e matadores de dragão",
+      "url": "https://www.editoratrinitas.com.br/infanto-juvenil/dragoes-e-matadores-de-dragao?srsltid=AfmBOor-NRZsCmazV8bRgsZ7jKDh0EvpWkrkPLo3QMVk1qEA3wEtUHzg",
+      "imageUrl": "https://images.tcdn.com.br/img/img_prod/656003/drages_e_matadores_de_drago_1_20250903104103_610903e52892.png"
     }
   ]
 }

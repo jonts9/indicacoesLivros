@@ -23,6 +23,9 @@ h2 {
     padding: 10px;
     border-radius: 8px;
 }
+h3 {
+    padding-bottom: 20px;
+}
 .age-group {
     margin-bottom: 40px;
     
@@ -30,7 +33,7 @@ h2 {
 .book-grid {
     display: grid;
     flex-wrap: wrap;
-    gap: 16px;
+    gap: 18px;
     margin-top: 16px;
     grid-template-columns: repeat(3, 1fr);
 }
@@ -80,6 +83,15 @@ h2 {
   }
   .qrcode {
     display: block;
+  }
+  h2 {
+    background: #004080;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: larger;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact; /* padrão moderno */
   }
 }
 .bookContainer{
